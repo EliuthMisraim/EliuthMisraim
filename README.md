@@ -2,8 +2,8 @@
 
 **Científico de Datos | Ingeniero Químico**
 
-<a href="www.linkedin.com/in/eliuthrojas">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-<a href="[URL_DE_TU_PERFIL_DE_GITHUB]">  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> 
+<a href="[www.linkedin.com/in/eliuthrojas]">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
 
 ## Sobre Mí
 Soy un Ingeniero Químico con especialización en Ciencia de Datos y Optimización de Proyectos. Me apasiona transformar datos en decisiones estratégicas para resolver desafíos de negocio y optimizar la eficiencia operativa.
