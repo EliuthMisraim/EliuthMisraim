@@ -95,3 +95,4 @@ Aquí puedes encontrar algunos de los proyectos en los que he trabajado. ¡Te in
 ## 📫 Contacto
 * **Correo:** eliuthrojasvillavicencio@hotmail.com
 * **LinkedIn:** [www.linkedin.com/in/eliuthrojas](https://www.linkedin.com/in/eliuthrojas)
+* **GitHub:** [Mi Perfil de GitHub]([URL_DE_TU_PERFIL_DE_GITHUB])
