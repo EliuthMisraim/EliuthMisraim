@@ -2,7 +2,7 @@
 
 **Científico de Datos | Ingeniero Químico**
 
-<a href="[www.linkedin.com/in/eliuthrojas]">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/eliuthrojas">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 
 ## Sobre Mí
@@ -60,17 +60,17 @@ Aquí puedes encontrar algunos de los proyectos en los que he trabajado. ¡Te in
 ### Análisis de Productos de la Marca Vanish
 * **Descripción:** Realicé un análisis exploratorio de datos (EDA) con Jupyter Notebook, consolidando y limpiando múltiples bases de datos. Desarrollé nuevas variables y utilicé Seaborn para visualizar tendencias de ventas. El proyecto se estructuró bajo la metodología CRISP-DM.
 * **Tecnologías:** Python, Pandas, Seaborn, Jupyter Notebook.
-* ➡️ [**Ver Repositorio del Proyecto**]([URL_DEL_REPOSITORIO_VANISH])
+* ➡️ [**Ver Repositorio del Proyecto**]([https://github.com/TU_USUARIO/REPOSITORIO_VANISH])
 
 ### Predicción de Deserción Laboral con KNN
 * **Descripción:** Implementé un modelo de K-Nearest Neighbors (KNN) para predecir la probabilidad de que un empleado abandone la empresa. El análisis reveló una tasa de deserción del 24% y el modelo final obtuvo un **AUC de 0.96** en la curva ROC.
 * **Tecnologías:** Python, Scikit-learn, Seaborn.
-* ➡️ [**Ver Repositorio del Proyecto**]([URL_DEL_REPOSITORIO_KNN])
+* ➡️ [**Ver Repositorio del Proyecto**]([https://github.com/TU_USUARIO/REPOSITORIO_KNN])
 
 ### Gestión de Base de Datos de Clientes con Python
 * **Descripción:** Desarrollé un script en Python para migrar datos de clientes (CSV) a una nueva base de datos relacional SQLite. Automaticé la generación de un script de respaldo (.sql) y verifiqué la integridad de los datos.
 * **Tecnologías:** Python, SQLite.
-* ➡️ [**Ver Repositorio del Proyecto**]([URL_DEL_REPOSITORIO_SQLITE])
+* ➡️ [**Ver Repositorio del Proyecto**]([https://github.com/TU_USUARIO/REPOSITORIO_SQLITE])
 
 ---
 
@@ -95,4 +95,4 @@ Aquí puedes encontrar algunos de los proyectos en los que he trabajado. ¡Te in
 ## 📫 Contacto
 * **Correo:** eliuthrojasvillavicencio@hotmail.com
 * **LinkedIn:** [www.linkedin.com/in/eliuthrojas](https://www.linkedin.com/in/eliuthrojas)
-* **GitHub:** [Mi Perfil de GitHub]([URL_DE_TU_PERFIL_DE_GITHUB])
+* **GitHub:** [Mi Perfil de GitHub]([https://github.com/TU_USUARIO])
