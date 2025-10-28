@@ -65,12 +65,12 @@ Aquí puedes encontrar algunos de los proyectos en los que he trabajado. ¡Te in
 ### Predicción de Deserción Laboral con KNN
 * **Descripción:** Implementé un modelo de K-Nearest Neighbors (KNN) para predecir la probabilidad de que un empleado abandone la empresa. El análisis reveló una tasa de deserción del 24% y el modelo final obtuvo un **AUC de 0.96** en la curva ROC.
 * **Tecnologías:** Python, Scikit-learn, Seaborn.
-* ➡️ [**Ver Repositorio del Proyecto**]([https://github.com/TU_USUARIO/REPOSITORIO_KNN])
+* ➡️ [**Ver Repositorio del Proyecto**](https://github.com/EliuthMisraim/Desercion_Laboral_KNN)
 
 ### Gestión de Base de Datos de Clientes con Python
 * **Descripción:** Desarrollé un script en Python para migrar datos de clientes (CSV) a una nueva base de datos relacional SQLite. Automaticé la generación de un script de respaldo (.sql) y verifiqué la integridad de los datos.
 * **Tecnologías:** Python, SQLite.
-* ➡️ [**Ver Repositorio del Proyecto**]([https://github.com/TU_USUARIO/REPOSITORIO_SQLITE])
+* ➡️ [**Ver Repositorio del Proyecto**](https://github.com/EliuthMisraim/Gestion_Bases_Datos_SQLite_Python)
 
 ---
 
@@ -95,4 +95,3 @@ Aquí puedes encontrar algunos de los proyectos en los que he trabajado. ¡Te in
 ## 📫 Contacto
 * **Correo:** eliuthrojasvillavicencio@hotmail.com
 * **LinkedIn:** [www.linkedin.com/in/eliuthrojas](https://www.linkedin.com/in/eliuthrojas)
-* **GitHub:** [Mi Perfil de GitHub]([https://github.com/TU_USUARIO])
