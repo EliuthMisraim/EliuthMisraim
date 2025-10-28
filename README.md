@@ -60,7 +60,7 @@ Aquí puedes encontrar algunos de los proyectos en los que he trabajado. ¡Te in
 ### Análisis de Productos de la Marca Vanish
 * **Descripción:** Realicé un análisis exploratorio de datos (EDA) con Jupyter Notebook, consolidando y limpiando múltiples bases de datos. Desarrollé nuevas variables y utilicé Seaborn para visualizar tendencias de ventas. El proyecto se estructuró bajo la metodología CRISP-DM.
 * **Tecnologías:** Python, Pandas, Seaborn, Jupyter Notebook.
-* ➡️ [**Ver Repositorio del Proyecto**]([https://github.com/EliuthMisraim/Analisis_Productos_Vanish])
+* ➡️ [**Ver Repositorio del Proyecto**](https://github.com/EliuthMisraim/Analisis_Productos_Vanish)
 
 ### Predicción de Deserción Laboral con KNN
 * **Descripción:** Implementé un modelo de K-Nearest Neighbors (KNN) para predecir la probabilidad de que un empleado abandone la empresa. El análisis reveló una tasa de deserción del 24% y el modelo final obtuvo un **AUC de 0.96** en la curva ROC.
