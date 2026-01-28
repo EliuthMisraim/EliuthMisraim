@@ -1,97 +1,74 @@
-¡Hola! Soy Eliuth Misraim Rojas Villavicencio 👋
+* # ¡Hola! Soy Eliuth Misraim Rojas Villavicencio 👋
 
-**Científico de Datos | Ingeniero Químico**
+**Data Scientist | Chemical Engineer | Process Optimization Expert**
 
-<a href="https://www.linkedin.com/in/eliuthrojas">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/eliuthrojas"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://github.com/EliuthMisraim"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
+## 🚀 Sobre Mí
+Soy un **Ingeniero Químico y Científico de Datos** especializado en la optimización de procesos y analítica predictiva. Mi enfoque combina el rigor técnico con el poder del **Machine Learning** para transformar datos complejos en estrategias accionables que maximizan la eficiencia operativa y los ingresos.
 
-## Sobre Mí
-Soy un Ingeniero Químico con especialización en Ciencia de Datos y Optimización de Proyectos. Me apasiona transformar datos en decisiones estratégicas para resolver desafíos de negocio y optimizar la eficiencia operativa.
-
-Cuento con experiencia en el análisis de datos para la mejora de procesos logísticos y operativos, aplicando metodologías de mejora continua como Kaizen y Lean Six Sigma. Mi enfoque principal es la limpieza, análisis y visualización de datos con Python, Power BI y SQL.
+Cuento con experiencia desarrollando soluciones de extremo a extremo: desde la ingeniería de **pipelines ETL automatizados** hasta el despliegue de modelos de **Clustering y Time Series Forecasting**.
 
 ---
 
 ### 🎓 Educación
-* **Profesión en Ciencia de datos** - EBAC (2024 - Actual)
-* **Ingeniería Química** - Universidad Politécnica de Tlaxcala (2016 - 2020)
+* **Data Science** - EBAC (Escola Britânica de Artes Criativas e Tecnologia) | 2024 - 2026
+* **B.S. in Chemical Engineering** - Universidad Politécnica de Tlaxcala | 2016 – 2020
 
-### 🏢 Experiencia Profesional
-**Analista de Inventarios y Operaciones | Fastenal**
-*México, Nuevo León | agosto 2020 - 2025*
+### 🏢 Experiencia Profesional Destacada
+**Inventory and Operations Analyst | Fastenal**
+*Nuevo León, México | Agosto 2020 – Agosto 2025*
 
-* Redistribuí el inventario (análisis ABC), resultando en una **mejora del 25% en tiempos de búsqueda**.
-* Lideré el rediseño del layout del almacén basándome en análisis de rotación, incrementando la **eficiencia operativa en un 30%**.
-* Implementé un sistema para el análisis mensual del movimiento de materiales, logrando una **disminución del 40% en discrepancias** y pérdidas.
-* Diseñé un **layout interactivo en 3D** conectado a bases de datos para la visualización dinámica del inventario.
-
-### 💬 Idiomas
-* **Inglés:** B2
+* **Optimización de Inventarios:** Reduje los tiempos de búsqueda en un **25%** mediante análisis de clasificación ABC.
+* **Eficiencia Operativa:** Incrementé la eficiencia en un **30%** liderando el rediseño del layout del almacén basado en rotación de productos.
+* **Reducción de Pérdidas:** Logré una disminución del **40%** en discrepancias de inventario y mermas mediante análisis de causa raíz.
+* **Visualización Avanzada:** Diseñé un dashboard interactivo en **3D** integrado con bases de datos para monitoreo dinámico.
 
 ---
 
-## 🛠️ Habilidades y Herramientas
+## 🛠️ Habilidades Técnicas
 
-**Análisis y Metodologías**
-* Análisis Exploratorio de Datos (EDA)
-* Limpieza y Transformación de Datos
-* Modelado Predictivo (Clasificación, Regresión)
-* Metodologías: CRISP-DM, DMAIC, Lean Six Sigma, Kaizen, 6S
-* Implementación de KPIs
-
-**Tecnologías**
-* Python (Pandas, Seaborn, Scikit-learn)
-* Visualización: Power BI
-* Bases de Datos: SQL (SQLite)
-* Otras Herramientas: Jupyter Notebook, Smartsheet, Orange
-
-**Habilidades Blandas**
-* Pensamiento Analítico
-* Resolución de Problemas
-* Gestión del Tiempo
-* Comunicación Técnica
-* Liderazgo de Proyectos
+| Área | Tecnologías / Metodologías |
+| :--- | :--- |
+| **Data Science** | Machine Learning (Clustering, Regression, Time Series), EDA, ETL Pipelines. |
+| **Programación** | **Python** (Pandas, Scikit-learn, Statsmodels, FastAPI, Seaborn), **SQL** (SQLite). |
+| **Visualización** | Power BI, Matplotlib, Seaborn. |
+| **Metodologías** | **Lean Six Sigma**, CRISP-DM, DMAIC, Kaizen, 6S. |
+| **Herramientas** | Jupyter Notebook, Git, Joblib, Smartsheet. |
 
 ---
 
-## 🚀 Proyectos Destacados
-Aquí puedes encontrar algunos de los proyectos en los que he trabajado. ¡Te invito a visitar los repositorios para conocer más detalles!
+## 🚀 Proyectos Destacados de Ciencia de Datos
 
-### Análisis de Productos de la Marca Vanish
-* **Descripción:** Realicé un análisis exploratorio de datos (EDA) con Jupyter Notebook, consolidando y limpiando múltiples bases de datos. Desarrollé nuevas variables y utilicé Seaborn para visualizar tendencias de ventas. El proyecto se estructuró bajo la metodología CRISP-DM.
-* **Tecnologías:** Python, Pandas, Seaborn, Jupyter Notebook.
+### 📊 Vanish Brand Product Analysis (2026)
+* **ETL & SQL:** Automatización de limpieza y transformación de +120,000 registros de ventas usando Python y SQLite.
+* **Clustering (K-Means):** Segmentación del portafolio en 4 clusters de rendimiento para identificar productos estratégicos.
+* **Forecasting:** Modelo **ARIMA** optimizado para pronosticar demanda a 12 semanas con intervalos de confianza.
 * ➡️ [**Ver Repositorio del Proyecto**](https://github.com/EliuthMisraim/Analisis_Productos_Vanish)
 
-### Predicción de Deserción Laboral con KNN
-* **Descripción:** Implementé un modelo de K-Nearest Neighbors (KNN) para predecir la probabilidad de que un empleado abandone la empresa. El análisis reveló una tasa de deserción del 24% y el modelo final obtuvo un **AUC de 0.96** en la curva ROC.
-* **Tecnologías:** Python, Scikit-learn, Seaborn.
-* ➡️ [**Ver Repositorio del Proyecto**](https://github.com/EliuthMisraim/Desercion_Laboral_KNN)
+### 🛡️ Real-Time FPS Anti-Cheat Microservice (API) (2026)
+* **API Development:** Creación de una **REST API** de alto rendimiento con **FastAPI** para detección de trampas en tiempo real.
+* **Model Deployment:** Integración de un clasificador Random Forest usando **Joblib** para inferencia instantánea de baja latencia.
+* ➡️ [**Ver Repositorio del Proyecto**](https://github.com/EliuthMisraim/Real-Time-FPS-Anti-Cheat-Microservice)
 
-### Gestión de Base de Datos de Clientes con Python
-* **Descripción:** Desarrollé un script en Python para migrar datos de clientes (CSV) a una nueva base de datos relacional SQLite. Automaticé la generación de un script de respaldo (.sql) y verifiqué la integridad de los datos.
-* **Tecnologías:** Python, SQLite.
-* ➡️ [**Ver Repositorio del Proyecto**](https://github.com/EliuthMisraim/Gestion_Bases_Datos_SQLite_Python)
+### 💰 Corporate Wellness ROI & Financial Modeling (2025)
+* **Modelado Financiero:** Cuantificación de "costos ocultos" por ausentismo y productividad usando Python.
+* **Análisis de Sensibilidad:** Simulación de escenarios (ROI proyectado >350%) con un periodo de recuperación de 2.6 meses.
+* ➡️ [**Ver Repositorio del Proyecto**](https://github.com/EliuthMisraim/roi-bienestar-analysis)
 
 ---
 
-## 📜 Cursos y Certificaciones
-* Negotiations (2025)
-* Effective Business Communications (2024)
-* Lean Principles and Methodologies (2024)
-* Process Failure Mode Effects Analysis (PFMEA) (2023)
-* Kaizen in the Workplace (2023)
-* Time Management, FSB (2022)
-* Resolving Conflict (2022)
-* Primary Functions of a Leader (2022)
-* Improving Efficiency Through 6s (2022)
-* Business Math (2022)
-* LEAN Overview, FSB (2022)
-* Decision Making, FSB (2022)
-* Introduction to Six Sigma (2022)
-* Coaching Skills (2022)
+## 📜 Certificaciones Destacadas
+* **Negotiations** (2025)
+* **Lean Principles & Methodologies** (2024)
+* **Effective Business Communications** (2024)
+* **Process Failure Mode Effects Analysis (PFMEA)** (2023)
+* **Introduction to Six Sigma** (2022)
 
 ---
 
 ## 📫 Contacto
-* **Correo:** eliuthrojasvillavicencio@hotmail.com
-* **LinkedIn:** [www.linkedin.com/in/eliuthrojas](https://www.linkedin.com/in/eliuthrojas)
+* **Email:** [eliuthrojasvillavicencio@hotmail.com](mailto:eliuthrojasvillavicencio@hotmail.com)
+* **LinkedIn:** [linkedin.com/in/eliuthrojas](https://www.linkedin.com/in/eliuthrojas)
+* **Idiomas:** Español (Nativo) | Inglés (B2 - Professional Working Proficiency)
